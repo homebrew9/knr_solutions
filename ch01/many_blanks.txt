@@ -1,0 +1,5 @@
+This        is a sample file that has a few        strings of continuous
+blanks           like this one |                       | and this one
+as well |                          |. A C program will read it and
+replace each string of continous              blanks with a
+single                   blank.

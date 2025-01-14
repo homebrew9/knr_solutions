@@ -1,0 +1,4 @@
+This is a file	  that has many continuous tab	 characters in it. A C program
+will read this data and	detab the tabs, i.e. replace each occurrence
+of a tab character by n consecutive blank spaces. Here n	is 4 and it can be defined at the
+beginning of		       the C				      program.

@@ -1,0 +1,6 @@
+A sample file that has blank lines like the following:
+
+and         embedded spaces and tabs 			which should                  
+be removed  only if they occur                            
+at the end of a line.
+

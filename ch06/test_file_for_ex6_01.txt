@@ -1,0 +1,4 @@
+#include <stdio.h> void char /* comment void here */
+// and double here
+volatile case void while continue
+printf("----\n");

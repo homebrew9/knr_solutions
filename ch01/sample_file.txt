@@ -1,0 +1,6 @@
+This is a sample file that has a few tabs here: [	] and
+here [	] and here as well [	].
+A C program will read it and determine the number of blanks,
+tabs and newlines. Two more tabs are over here [	] and here [	].
+I've put in a \few\ backslashes \ as well \\, so that it works
+for the \C program\ ex1_10.c in this chapter.
